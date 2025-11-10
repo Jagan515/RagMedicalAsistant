@@ -1,0 +1,11 @@
+langchain
+flask
+sentence-transformers
+pypdf
+load_dotenv
+pinecone
+langchain_core
+langchain_huggingface
+langchain_community
+langchain_pinecone
+tiktoken
