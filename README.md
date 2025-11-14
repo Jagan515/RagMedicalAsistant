@@ -1,9 +1,5 @@
 # RAG Medical Chatbot 
 
-> 🌈 **Welcome!** This README gives a clear, colorful, copy-paste-ready guide to run your Flask + RAG app (`app.py`), create a Python venv, build the Docker image, and deploy to **Render**.
-> It includes the `Dockerfile`, venv commands, environment variables, quick troubleshooting, and useful links.
-
----
 
 ## 📌 Project overview
 
@@ -24,7 +20,7 @@ Files of interest:
 
 ---
 
-# 🔧 `README.md` 
+#  `README.md` 
 
 ````markdown
 # RAG Medical Chatbot
@@ -37,7 +33,7 @@ A Flask-based Retrieval-Augmented Generation (RAG) chatbot that:
 
 ---
 
-## 🚀 Quick start (local, with virtualenv)
+##  Quick start (local, with virtualenv)
 
 > These commands assume a Unix-like shell (macOS / Linux). Windows commands are shown after.
 
